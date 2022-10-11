@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/math-operations/static/css/main.4eec8030.css",
+    "main.js": "/math-operations/static/js/main.483b3fab.js",
+    "static/js/787.618e7926.chunk.js": "/math-operations/static/js/787.618e7926.chunk.js",
+    "static/media/banner.png": "/math-operations/static/media/banner.cfcc3c5a0386cae3f0ef.png",
+    "static/media/subtraction.webp": "/math-operations/static/media/subtraction.532cf42fea020cbb8dde.webp",
+    "static/media/multiplication.webp": "/math-operations/static/media/multiplication.b5b7eb12a2e4bb6d3712.webp",
+    "static/media/addition.webp": "/math-operations/static/media/addition.e10323559ad1dba2958e.webp",
+    "static/media/division.webp": "/math-operations/static/media/division.4bff3e1c58f87f2b8494.webp",
+    "index.html": "/math-operations/index.html",
+    "main.4eec8030.css.map": "/math-operations/static/css/main.4eec8030.css.map",
+    "main.483b3fab.js.map": "/math-operations/static/js/main.483b3fab.js.map",
+    "787.618e7926.chunk.js.map": "/math-operations/static/js/787.618e7926.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eec8030.css",
+    "static/js/main.483b3fab.js"
+  ]
+}
